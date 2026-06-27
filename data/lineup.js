@@ -30,9 +30,9 @@ export const lineup = [
   },
 
   {
-    id: "fate-strange-fake-buzzwatch",
+    id: "daemons-of-the-shadow-realm-buzzwatch",
     days: ["Sunday"],
-    mediaId: "fate-strange-fake",
+    mediaId: "daemons-of-the-shadow-realm",
     category: "BuzzWatch",
   },
   {
