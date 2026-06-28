@@ -221,9 +221,10 @@ export const media = [
     tmdbId: 86831,
     mediaType: "tv",
   },
+  {
     id: "daemons-of-the-shadow-realm",
     name: "Daemons of the Shadow Realm",
-    tmdbId:260463
+    tmdbId: 260463,
     mediaType: "tv",
   },
 ];
