@@ -227,4 +227,17 @@ export const media = [
     tmdbId: 260463,
     mediaType: "tv",
   },
+
+  {
+    id: "from",
+    name: "From",
+    tmdbId: 124364,
+    mediaType: "tv",
+  },
+  {
+    id: "we-baby-bears",
+    name: "We Baby Bears",
+    tmdbId: 117030,
+    mediaType: "tv",
+  },
 ];

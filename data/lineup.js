@@ -15,13 +15,6 @@ export const DAY_GROUPS = {
 };
 
 export const lineup = [
-  // {
-  //   id: "one-piece-wakeup-watch",
-  //   days: DAY_GROUPS.EVERY_DAY,
-  //   mediaId: "one-piece",
-  //   category: "WakeUp Watch",
-  // },
-
   {
     id: "beastars-wakeup-watch",
     days: DAY_GROUPS.EVERY_DAY,
@@ -45,6 +38,13 @@ export const lineup = [
     id: "frieren-beyond-journeys-end-buzzwatch",
     days: ["Tuesday"],
     mediaId: "frieren-beyond-journeys-end",
+    category: "BuzzWatch",
+  },
+
+  {
+    id: "one-piece-buzzwatch",
+    days: ["Wednesday"],
+    mediaId: "one-piece",
     category: "BuzzWatch",
   },
 
@@ -135,10 +135,18 @@ export const lineup = [
   //   mediaId: "fallout",
   //   category: "Episode-A-Day",
   // },
+
+  // {
+  //   id: "the-sandman-episode-a-day",
+  //   days: DAY_GROUPS.WEEKDAYS,
+  //   mediaId: "the-sandman",
+  //   category: "Episode-A-Day",
+  // },
+
   {
-    id: "the-sandman-episode-a-day",
+    id: "from-episode-a-day",
     days: DAY_GROUPS.WEEKDAYS,
-    mediaId: "the-sandman",
+    mediaId: "from",
     category: "Episode-A-Day",
   },
 
@@ -226,10 +234,17 @@ export const lineup = [
     mediaId: "clarence",
     category: "ZzzToons",
   },
+  // {
+  //   id: "love-death-and-robots-zzztoons",
+  //   days: ["Friday"],
+  //   mediaId: "love-death-and-robots",
+  //   category: "ZzzToons",
+  // },
+
   {
-    id: "love-death-and-robots-zzztoons",
+    id: "we-baby-bears-zzztoons",
     days: ["Friday"],
-    mediaId: "love-death-and-robots",
+    mediaId: "we-baby-bears",
     category: "ZzzToons",
   },
 
