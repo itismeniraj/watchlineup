@@ -16,9 +16,9 @@ export const DAY_GROUPS = {
 
 export const lineup = [
   {
-    id: "beastars-wakeup-watch",
+    id: "289219-maul-shadow-lord",
     days: DAY_GROUPS.EVERY_DAY,
-    mediaId: "beastars",
+    mediaId: "289219-maul-shadow-lord",
     category: "WakeUp Watch",
   },
 

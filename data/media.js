@@ -240,4 +240,10 @@ export const media = [
     tmdbId: 117030,
     mediaType: "tv",
   },
+  {
+    id: "289219-maul-shadow-lord",
+    name: "Star Wars: Maul - Shadow Lord",
+    tmdbId: 289219,
+    mediaType: "tv",
+  },
 ];
