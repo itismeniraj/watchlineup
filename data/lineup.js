@@ -295,7 +295,7 @@ export const lineup = [
   {
     id: "1301421-the-sheep-detectives",
     days: DAY_GROUPS.WEEKENDS,
-    mediaId: "1432547-all-you-need-is-kill",
+    mediaId: "1301421-the-sheep-detectives",
     category: "ScreenTime Saturday",
   },
 ];
