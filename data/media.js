@@ -107,12 +107,7 @@ export const media = [
     tmdbId: 84503,
     mediaType: "tv",
   },
-  {
-    id: "beastars",
-    name: "Beastars",
-    tmdbId: 90937,
-    mediaType: "tv",
-  },
+
   {
     id: "orb-on-the-movements-of-the-earth",
     name: "Orb: On the Movements of the Earth",
@@ -245,5 +240,43 @@ export const media = [
     name: "Star Wars: Maul - Shadow Lord",
     tmdbId: 289219,
     mediaType: "tv",
+  },
+
+  // Movies Media
+  {
+    id: "1301421-the-sheep-detectives",
+    name: "The Sheep Detectives",
+    tmdbId: 1301421,
+    mediaType: "movie",
+  },
+  {
+    id: "1432547-all-you-need-is-kill",
+    name: "ALL YOU NEED IS KILL",
+    tmdbId: 1432547,
+    mediaType: "movie",
+  },
+  {
+    id: "397243-the-autopsy-of-jane-doe",
+    name: "The Autopsy of Jane Doe",
+    tmdbId: 397243,
+    mediaType: "movie",
+  },
+  {
+    id: "13813-defiance",
+    name: "Defiance",
+    tmdbId: 13813,
+    mediaType: "movie",
+  },
+  {
+    id: "1189423-the-sloth-lane",
+    name: "The Sloth Lane",
+    tmdbId: 1189423,
+    mediaType: "movie",
+  },
+  {
+    id: "1168190-the-wrecking-crew",
+    name: "The Wrecking Crew",
+    tmdbId: 1168190,
+    mediaType: "movie",
   },
 ];

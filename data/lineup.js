@@ -248,6 +248,7 @@ export const lineup = [
     category: "ZzzToons",
   },
 
+  // Movies Lineup
   {
     id: "iron-lung-screentime-saturday",
     days: DAY_GROUPS.WEEKENDS,
@@ -256,15 +257,45 @@ export const lineup = [
   },
 
   {
-    id: "predestination-screentime-saturday",
+    id: "1168190-the-wrecking-crew",
     days: DAY_GROUPS.WEEKENDS,
-    mediaId: "predestination",
+    mediaId: "1168190-the-wrecking-crew",
     category: "ScreenTime Saturday",
   },
   {
     id: "buffalo-kids-screentime-saturday",
     days: DAY_GROUPS.WEEKENDS,
     mediaId: "buffalo-kids",
+    category: "ScreenTime Saturday",
+  },
+  {
+    id: "1189423-the-sloth-lane",
+    days: DAY_GROUPS.WEEKENDS,
+    mediaId: "1189423-the-sloth-lane",
+    category: "ScreenTime Saturday",
+  },
+  {
+    id: "13813-defiance",
+    days: DAY_GROUPS.WEEKENDS,
+    mediaId: "13813-defiance",
+    category: "ScreenTime Saturday",
+  },
+  {
+    id: "397243-the-autopsy-of-jane-doe",
+    days: DAY_GROUPS.WEEKENDS,
+    mediaId: "397243-the-autopsy-of-jane-doe",
+    category: "ScreenTime Saturday",
+  },
+  {
+    id: "1432547-all-you-need-is-kill",
+    days: DAY_GROUPS.WEEKENDS,
+    mediaId: "1432547-all-you-need-is-kill",
+    category: "ScreenTime Saturday",
+  },
+  {
+    id: "1301421-the-sheep-detectives",
+    days: DAY_GROUPS.WEEKENDS,
+    mediaId: "1432547-all-you-need-is-kill",
     category: "ScreenTime Saturday",
   },
 ];
