@@ -16,9 +16,9 @@ export const DAY_GROUPS = {
 
 export const lineup = [
   {
-    id: "289219-maul-shadow-lord",
+    id: "one-piece-wakeup-watch",
     days: DAY_GROUPS.EVERY_DAY,
-    mediaId: "289219-maul-shadow-lord",
+    mediaId: "one-piece",
     category: "WakeUp Watch",
   },
 
@@ -42,9 +42,9 @@ export const lineup = [
   },
 
   {
-    id: "one-piece-buzzwatch",
+    id: "278196-the-summer-hikaru-died-buzzwatch",
     days: ["Wednesday"],
-    mediaId: "one-piece",
+    mediaId: "278196-the-summer-hikaru-died",
     category: "BuzzWatch",
   },
 
@@ -88,17 +88,11 @@ export const lineup = [
     mediaId: "vox-machina",
     category: "Watch Streak",
   },
-  {
-    id: "orb-on-the-movements-of-the-earth-watch-streak",
-    days: ["Friday"],
-    mediaId: "orb-on-the-movements-of-the-earth",
-    category: "Watch Streak",
-  },
 
   {
-    id: "takopis-original-sin-watch-streak",
+    id: "289324-star-wars-visions-presents-the-ninth-jedi-watch-streak",
     days: ["Wednesday"],
-    mediaId: "takopis-original-sin",
+    mediaId: "289324-star-wars-visions-presents-the-ninth-jedi",
     category: "Watch Streak",
   },
 
@@ -106,6 +100,12 @@ export const lineup = [
     id: "that-time-i-got-reincarnated-as-a-slime-watch-streak",
     days: ["Thursday"],
     mediaId: "that-time-i-got-reincarnated-as-a-slime",
+    category: "Watch Streak",
+  },
+  {
+    id: "orb-on-the-movements-of-the-earth-watch-streak",
+    days: ["Friday"],
+    mediaId: "orb-on-the-movements-of-the-earth",
     category: "Watch Streak",
   },
 
@@ -128,20 +128,6 @@ export const lineup = [
     mediaId: "gintama",
     category: "Weekend Watchout",
   },
-
-  // {
-  //   id: "fallout-episode-a-day",
-  //   days: DAY_GROUPS.WEEKDAYS,
-  //   mediaId: "fallout",
-  //   category: "Episode-A-Day",
-  // },
-
-  // {
-  //   id: "the-sandman-episode-a-day",
-  //   days: DAY_GROUPS.WEEKDAYS,
-  //   mediaId: "the-sandman",
-  //   category: "Episode-A-Day",
-  // },
 
   {
     id: "from-episode-a-day",
@@ -234,12 +220,6 @@ export const lineup = [
     mediaId: "clarence",
     category: "ZzzToons",
   },
-  // {
-  //   id: "love-death-and-robots-zzztoons",
-  //   days: ["Friday"],
-  //   mediaId: "love-death-and-robots",
-  //   category: "ZzzToons",
-  // },
 
   {
     id: "we-baby-bears-zzztoons",
