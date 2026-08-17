@@ -5,12 +5,7 @@ export const media = [
     tmdbId: 135934,
     mediaType: "tv",
   },
-  {
-    id: "fallout",
-    name: "Fallout",
-    tmdbId: 106379,
-    mediaType: "tv",
-  },
+
   {
     id: "kiff",
     name: "Kiff",
@@ -37,23 +32,9 @@ export const media = [
   },
 
   {
-    id: "fate-strange-fake",
-    name: "Fate Strange Fake",
-    tmdbId: 229858,
-    mediaType: "tv",
-  },
-
-  {
     id: "one-piece",
     name: "One Piece",
     tmdbId: 37854,
-    mediaType: "tv",
-  },
-
-  {
-    id: "takopis-original-sin",
-    name: "Takopi's Original Sin",
-    tmdbId: 284445,
     mediaType: "tv",
   },
 
@@ -107,18 +88,7 @@ export const media = [
     tmdbId: 84503,
     mediaType: "tv",
   },
-  {
-    id: "beastars",
-    name: "Beastars",
-    tmdbId: 90937,
-    mediaType: "tv",
-  },
-  {
-    id: "orb-on-the-movements-of-the-earth",
-    name: "Orb: On the Movements of the Earth",
-    tmdbId: 204635,
-    mediaType: "tv",
-  },
+
   {
     id: "rick-and-morty",
     name: "Rick and Morty",
@@ -185,12 +155,7 @@ export const media = [
     tmdbId: 84553,
     mediaType: "tv",
   },
-  {
-    id: "the-sandman",
-    name: "The Sandman",
-    tmdbId: 90802,
-    mediaType: "tv",
-  },
+
   {
     id: "frieren-beyond-journeys-end",
     name: "Frieren: Beyond Journey's End",
@@ -215,10 +180,76 @@ export const media = [
     tmdbId: 65942,
     mediaType: "tv",
   },
+
   {
-    id: "love-death-and-robots",
-    name: "Love, Death & Robots",
-    tmdbId: 86831,
+    id: "daemons-of-the-shadow-realm",
+    name: "Daemons of the Shadow Realm",
+    tmdbId: 260463,
     mediaType: "tv",
+  },
+
+  {
+    id: "from",
+    name: "From",
+    tmdbId: 124364,
+    mediaType: "tv",
+  },
+  {
+    id: "we-baby-bears",
+    name: "We Baby Bears",
+    tmdbId: 117030,
+    mediaType: "tv",
+  },
+
+  {
+    id: "289324-star-wars-visions-presents-the-ninth-jedi",
+    name: "Star Wars: Visions Presents - The Ninth Jedi",
+    tmdbId: 289324,
+    mediaType: "tv",
+  },
+
+  {
+    id: "278196-the-summer-hikaru-died",
+    name: "The Summer Hikaru Died",
+    tmdbId: 278196,
+    mediaType: "tv",
+  },
+
+  // Movies Media
+  {
+    id: "1301421-the-sheep-detectives",
+    name: "The Sheep Detectives",
+    tmdbId: 1301421,
+    mediaType: "movie",
+  },
+  {
+    id: "1432547-all-you-need-is-kill",
+    name: "ALL YOU NEED IS KILL",
+    tmdbId: 1432547,
+    mediaType: "movie",
+  },
+  {
+    id: "397243-the-autopsy-of-jane-doe",
+    name: "The Autopsy of Jane Doe",
+    tmdbId: 397243,
+    mediaType: "movie",
+  },
+  {
+    id: "13813-defiance",
+    name: "Defiance",
+    tmdbId: 13813,
+    mediaType: "movie",
+  },
+  {
+    id: "1189423-the-sloth-lane",
+    name: "The Sloth Lane",
+    tmdbId: 1189423,
+    mediaType: "movie",
+  },
+  {
+    id: "1168190-the-wrecking-crew",
+    name: "The Wrecking Crew",
+    tmdbId: 1168190,
+    mediaType: "movie",
   },
 ];

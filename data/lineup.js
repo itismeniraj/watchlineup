@@ -17,15 +17,18 @@ export const DAY_GROUPS = {
 export const lineup = [
   {
     id: "one-piece-wakeup-watch",
+  {
+    id: "one-piece-wakeup-watch",
     days: DAY_GROUPS.EVERY_DAY,
+    mediaId: "one-piece",
     mediaId: "one-piece",
     category: "WakeUp Watch",
   },
 
   {
-    id: "fate-strange-fake-buzzwatch",
+    id: "daemons-of-the-shadow-realm-buzzwatch",
     days: ["Sunday"],
-    mediaId: "fate-strange-fake",
+    mediaId: "daemons-of-the-shadow-realm",
     category: "BuzzWatch",
   },
   {
@@ -95,6 +98,12 @@ export const lineup = [
     mediaId: "that-time-i-got-reincarnated-as-a-slime",
     category: "Watch Streak",
   },
+  {
+    id: "orb-on-the-movements-of-the-earth-watch-streak",
+    days: ["Friday"],
+    mediaId: "orb-on-the-movements-of-the-earth",
+    category: "Watch Streak",
+  },
 
   {
     id: "sand-land-the-series-watch-streak",
@@ -117,9 +126,9 @@ export const lineup = [
   },
 
   {
-    id: "the-sandman-episode-a-day",
+    id: "from-episode-a-day",
     days: DAY_GROUPS.WEEKDAYS,
-    mediaId: "the-sandman",
+    mediaId: "from",
     category: "Episode-A-Day",
   },
 
@@ -207,13 +216,15 @@ export const lineup = [
     mediaId: "clarence",
     category: "ZzzToons",
   },
+
   {
-    id: "love-death-and-robots-zzztoons",
+    id: "we-baby-bears-zzztoons",
     days: ["Friday"],
-    mediaId: "love-death-and-robots",
+    mediaId: "we-baby-bears",
     category: "ZzzToons",
   },
 
+  // Movies Lineup
   {
     id: "iron-lung-screentime-saturday",
     days: DAY_GROUPS.WEEKENDS,
@@ -222,15 +233,45 @@ export const lineup = [
   },
 
   {
-    id: "predestination-screentime-saturday",
+    id: "1168190-the-wrecking-crew",
     days: DAY_GROUPS.WEEKENDS,
-    mediaId: "predestination",
+    mediaId: "1168190-the-wrecking-crew",
     category: "ScreenTime Saturday",
   },
   {
     id: "buffalo-kids-screentime-saturday",
     days: DAY_GROUPS.WEEKENDS,
     mediaId: "buffalo-kids",
+    category: "ScreenTime Saturday",
+  },
+  {
+    id: "1189423-the-sloth-lane",
+    days: DAY_GROUPS.WEEKENDS,
+    mediaId: "1189423-the-sloth-lane",
+    category: "ScreenTime Saturday",
+  },
+  {
+    id: "13813-defiance",
+    days: DAY_GROUPS.WEEKENDS,
+    mediaId: "13813-defiance",
+    category: "ScreenTime Saturday",
+  },
+  {
+    id: "397243-the-autopsy-of-jane-doe",
+    days: DAY_GROUPS.WEEKENDS,
+    mediaId: "397243-the-autopsy-of-jane-doe",
+    category: "ScreenTime Saturday",
+  },
+  {
+    id: "1432547-all-you-need-is-kill",
+    days: DAY_GROUPS.WEEKENDS,
+    mediaId: "1432547-all-you-need-is-kill",
+    category: "ScreenTime Saturday",
+  },
+  {
+    id: "1301421-the-sheep-detectives",
+    days: DAY_GROUPS.WEEKENDS,
+    mediaId: "1301421-the-sheep-detectives",
     category: "ScreenTime Saturday",
   },
 ];
