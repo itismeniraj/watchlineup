@@ -15,17 +15,10 @@ export const DAY_GROUPS = {
 };
 
 export const lineup = [
-  // {
-  //   id: "one-piece-wakeup-watch",
-  //   days: DAY_GROUPS.EVERY_DAY,
-  //   mediaId: "one-piece",
-  //   category: "WakeUp Watch",
-  // },
-
   {
-    id: "beastars-wakeup-watch",
+    id: "one-piece-wakeup-watch",
     days: DAY_GROUPS.EVERY_DAY,
-    mediaId: "beastars",
+    mediaId: "one-piece",
     category: "WakeUp Watch",
   },
 
@@ -48,18 +41,18 @@ export const lineup = [
     category: "BuzzWatch",
   },
 
-  {
-    id: "one-punch-man-buzzwatch",
-    days: ["Thursday"],
-    mediaId: "one-punch-man",
-    category: "BuzzWatch",
-  },
-  {
-    id: "re-zero-buzzwatch",
-    days: ["Friday"],
-    mediaId: "re-zero",
-    category: "BuzzWatch",
-  },
+  // {
+  //   id: "one-punch-man-buzzwatch",
+  //   days: ["Thursday"],
+  //   mediaId: "one-punch-man",
+  //   category: "BuzzWatch",
+  // },
+  // {
+  //   id: "re-zero-buzzwatch",
+  //   days: ["Friday"],
+  //   mediaId: "re-zero",
+  //   category: "BuzzWatch",
+  // },
 
   {
     id: "kiff-snacks&toons",
@@ -83,12 +76,6 @@ export const lineup = [
   // },
 
   {
-    id: "vox-watch-streak",
-    days: ["Tuesday"],
-    mediaId: "vox-machina",
-    category: "Watch Streak",
-  },
-  {
     id: "orb-on-the-movements-of-the-earth-watch-streak",
     days: ["Friday"],
     mediaId: "orb-on-the-movements-of-the-earth",
@@ -96,9 +83,9 @@ export const lineup = [
   },
 
   {
-    id: "takopis-original-sin-watch-streak",
+    id: "vox-watch-streak",
     days: ["Wednesday"],
-    mediaId: "takopis-original-sin",
+    mediaId: "vox-machina",
     category: "Watch Streak",
   },
 
@@ -117,7 +104,7 @@ export const lineup = [
   },
   {
     id: "blade-runner-black-lotus-watch-streak",
-    days: ["Monday"],
+    days: ["Thursday"],
     mediaId: "blade-runner-black-lotus",
     category: "Watch Streak",
   },
@@ -129,12 +116,6 @@ export const lineup = [
     category: "Weekend Watchout",
   },
 
-  // {
-  //   id: "fallout-episode-a-day",
-  //   days: DAY_GROUPS.WEEKDAYS,
-  //   mediaId: "fallout",
-  //   category: "Episode-A-Day",
-  // },
   {
     id: "the-sandman-episode-a-day",
     days: DAY_GROUPS.WEEKDAYS,
