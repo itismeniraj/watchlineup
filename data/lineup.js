@@ -17,8 +17,6 @@ export const DAY_GROUPS = {
 export const lineup = [
   {
     id: "one-piece-wakeup-watch",
-  {
-    id: "one-piece-wakeup-watch",
     days: DAY_GROUPS.EVERY_DAY,
     mediaId: "one-piece",
     mediaId: "one-piece",
@@ -32,9 +30,9 @@ export const lineup = [
     category: "BuzzWatch",
   },
   {
-    id: "to-your-eternity-buzzwatch",
+    id: "278196-the-summer-hikaru-died",
     days: ["Monday"],
-    mediaId: "to-your-eternity",
+    mediaId: "278196-the-summer-hikaru-died",
     category: "BuzzWatch",
   },
   {
@@ -79,13 +77,6 @@ export const lineup = [
   // },
 
   {
-    id: "orb-on-the-movements-of-the-earth-watch-streak",
-    days: ["Friday"],
-    mediaId: "orb-on-the-movements-of-the-earth",
-    category: "Watch Streak",
-  },
-
-  {
     id: "vox-watch-streak",
     days: ["Wednesday"],
     mediaId: "vox-machina",
@@ -93,24 +84,26 @@ export const lineup = [
   },
 
   {
-    id: "that-time-i-got-reincarnated-as-a-slime-watch-streak",
-    days: ["Thursday"],
-    mediaId: "that-time-i-got-reincarnated-as-a-slime",
-    category: "Watch Streak",
-  },
-  {
-    id: "orb-on-the-movements-of-the-earth-watch-streak",
+    id: "289324-star-wars-visions-presents-the-ninth-jedi",
     days: ["Friday"],
-    mediaId: "orb-on-the-movements-of-the-earth",
+    mediaId: "289324-star-wars-visions-presents-the-ninth-jedi",
     category: "Watch Streak",
   },
 
-  {
-    id: "sand-land-the-series-watch-streak",
-    days: ["Sunday"],
-    mediaId: "sand-land-the-series",
-    category: "Watch Streak",
-  },
+  // {
+  //   id: "that-time-i-got-reincarnated-as-a-slime-watch-streak",
+  //   days: ["Thursday"],
+  //   mediaId: "that-time-i-got-reincarnated-as-a-slime",
+  //   category: "Watch Streak",
+  // },
+
+  // {
+  //   id: "sand-land-the-series-watch-streak",
+  //   days: ["Sunday"],
+  //   mediaId: "sand-land-the-series",
+  //   category: "Watch Streak",
+  // },
+
   {
     id: "blade-runner-black-lotus-watch-streak",
     days: ["Thursday"],
